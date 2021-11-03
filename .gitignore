@@ -1,0 +1,6 @@
+# node_modules moment
+node_modules/
+
+# oh no i accidentally pushed my p r i v a t e data into network 😳 /s
+cookies.json
+config.json
